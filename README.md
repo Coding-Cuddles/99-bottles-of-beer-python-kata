@@ -7,14 +7,15 @@
 
 This kata complements [Clean Code: Advanced TDD, Ep. 24](https://cleancoders.com/episode/clean-code-episode-24-p1).
 
-Complete the `Bottles.song()` method that returns the lyrics for the song
-"99 Bottles of Beer" as an **array of strings** where each string represents
-a line of the song:
+This repository contains an exercise to construct the entire
+[99 Bottles of Beer](http://en.wikipedia.org/wiki/99_Bottles_of_Beer) song
+using TDD.
 
 ### Exercise
 
-Complete the function that returns the lyrics for the song "99 Bottles of Beer"
-as an **array of strings** where each string represents a line of the song:
+Complete the `Bottles.song()` method that returns the lyrics for the song
+"99 Bottles of Beer" as an **array of strings** where each string represents
+a line of the song:
 
 > 99 bottles of beer on the wall, 99 bottles of beer.</br>
 > Take one down and pass it around, 98 bottles of beer on the wall.
